@@ -934,6 +934,7 @@ h3 {
 	position: absolute;
 	top: 406px;
 	cursor: pointer;
+	z-index: 1000;
 }
 
 .arrow img{
