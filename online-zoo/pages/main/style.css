@@ -921,7 +921,6 @@ h3 {
 	position: relative;
 }
 
-
 .pets-block {
 	height: 881px;
 }
@@ -934,6 +933,7 @@ h3 {
 	position: absolute;
 	top: 406px;
 	cursor: pointer;
+	z-index: 1000;
 }
 
 .arrow img{
@@ -2414,8 +2414,6 @@ background-color: #111115;
 	color: #000000;
 }
 
-
-
 .footer-container__right-bottom {
 	display: flex;
 	justify-content: space-between;
@@ -2533,7 +2531,6 @@ background-color: #111115;
    border-left: 7px solid gray;
    border-bottom: 4.5px solid transparent;
 }
-
 
 .YouTube-logo__container-inside img {
 	width: 6.18px;
@@ -2817,9 +2814,6 @@ background-color: #111115;
 	}
  }
 
-
-
-
 .header__burger-bg {
 	position: absolute;
 	top: 0;
@@ -2840,7 +2834,6 @@ left: 0;
 transition: all 0.5s;
 z-index: 99 !important;
 }
-
 
 
 
